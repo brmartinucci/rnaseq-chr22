@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/72662997/112923771-484f5000-90e5-11eb-986d-3be1811c8c0e.png)
+![image](https://user-images.githubusercontent.com/72662997/112924045-cca1d300-90e5-11eb-8637-9d19d39da52f.png)
 
 
 ## Gitpod RNAseq STAR pipeline - chr22 simulado
