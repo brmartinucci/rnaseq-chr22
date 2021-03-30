@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/72662997/112923771-484f5000-90e5-11eb-986d-3be1811c8c0e.png)
+
+
 ## Gitpod RNAseq STAR pipeline - chr22 simulado
 
 * Pré-requisito instalar o R
